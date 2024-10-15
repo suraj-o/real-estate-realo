@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PrtHub/realo.git"
+    "url": "git+https://github.com/suraj-o/real-estate-realo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PrtHub/realo/issues"
+    "url": "git+https://github.com/suraj-o/real-estate-realo/issues"
   },
-  "homepage": "https://github.com/PrtHub/realo#readme",
+  "homepage": "git+https://github.com/suraj-o/real-estate-realo#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
